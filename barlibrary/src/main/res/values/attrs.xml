@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CommonNavBar">
+        <attr name="titleText" format="string" />
+        <attr name="leftText" format="string" />
+        <attr name="leftTextSize" format="dimension"/>
+        <attr name="leftTextColor" format="color|reference"/>
+        <attr name="rightText" format="string"/>
+        <attr name="rightTextSize" format="dimension"/>
+        <attr name="rightTextColor" format="color|reference"/>
+        <attr name="leftSrc" format="reference"/>
+        <attr name="rightSrc" format="reference"/>
+        <attr name="titleBarColor" format="color" />
+        <attr name="searchHintText" format="string" />
+        <attr name="centerCustomView" format="reference"/>
+        <attr name="centerToEndOfLeft" format="boolean"/>
+        <attr name="centerToStartOfRight" format="boolean"/>
+
+        <!-- 左边视图类型 -->
+        <attr name="leftType">
+            <enum name="none" value="0" />
+            <enum name="textView" value="1" />
+            <enum name="imageButton" value="2" />
+        </attr>
+
+        <!-- 右边视图类型 -->
+        <attr name="rightType">
+            <enum name="none" value="0" />
+            <enum name="textView" value="1" />
+            <enum name="imageButton" value="2" />
+        </attr>
+
+        <!-- 中间视图类型 -->
+        <attr name="centerType">
+            <enum name="none" value="0" />
+            <enum name="textView" value="1" />
+            <enum name="searchView" value="2" />
+            <enum name="customView" value="3" />
+        </attr>
+    </declare-styleable>
+</resources>

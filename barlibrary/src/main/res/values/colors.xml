@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="yt_color_primary">@color/yt_color_black_bg</color>
+    <color name="yt_color_primary_dark">@color/yt_color_black</color>
+    <color name="yt_color_accent">@color/yt_color_yellow</color>
+    <color name="yt_color_black">#FF000000</color>
+    <color name="yt_color_black_40_percent">#28000000</color>
+    <color name="yt_color_black_bg">#FF242424</color>
+    <color name="yt_color_black_252525">#252525</color>
+    <color name="yt_color_black_333333">#333333</color>
+    <color name="yt_color_white">#FFFFFFFF</color>
+    <color name="yt_color_white_50">#E6FFFFFF</color>
+    <color name="yt_color_white_30">#80FFFFFF</color>
+
+    <color name="yt_color_yellow">#FBCD04</color>
+    <color name="yt_color_yellow_light">#FFF9E1</color>
+    <color name="yt_color_yellow_trans">#15FBCD04</color>
+    <color name="yt_color_yellow_F9A90C">#F9A90C</color>
+    <color name="yt_color_yellow_FFF4D3">#FFF4D3</color>
+    <color name="yt_color_yellow_CF9C00">#CF9C00</color>
+    <color name="yt_color_yellow_FFE44D">#FFE44D</color>
+    <color name="yt_color_yellow_FFB41C">#FFB41C</color>
+    <color name="yt_color_yellow_FFF06B">#FFF06B</color>
+    <color name="yt_color_yellow_F5C27C">#F5C27C</color>
+    <color name="yt_color_yellow_FF930C">#FF930C</color>
+    <color name="yt_color_yellow_FFDF0A">#FFDF0A</color>
+    <color name="yellow_FFFCF0">#FFFCF0</color>
+    <color name="yt_color_FF990E">#FF990E</color>
+    <color name="yellow_D3950E">#D3950E</color>
+    <color name="yellow_FABF4A">#FABF4A</color>
+    <color name="yellow_FBE171">#FBE171</color>
+    <color name="yellow_AE520C">#AE520C</color>
+    <color name="yellow_FEC747">#FEC747</color>
+    <color name="yellow_FFC41A">#FFC41A</color>
+    <color name="yellow_FFFBEA">#FFFBEA</color>
+    <color name="yellow_FFE445">#FFE445</color>
+    <color name="yellow_FFAB2F">#FFAB2F</color>
+    <color name="yellow_FFEA81">#FFEA81</color>
+    <color name="yellow_FFE356">#FFE356</color>
+    <color name="yellow_FFC72C">#FFC72C</color>
+
+
+
+    <color name="yt_color_yellow_FED26C_50">#80FED26C</color>
+    <color name="yt_color_yellow_F5AC00">#F5AC00</color>
+    <color name="yt_color_yellow_FFF06B_85">#26FFF06B</color>
+    <color name="yt_color_yellow_FFF06B_40">#99FFF06B</color>
+    <color name="yellow_FACD03">#80FACD03</color>
+    <color name="yellow_FBD104">#FBD104</color>
+    <color name="yt_color_yellow_FEAC02">#FEAC02</color>
+    <color name="yt_color_yellow_FFD134">#FFD134</color>
+
+    <color name="yt_color_gray">#FF939393</color>
+    <color name="yt_color_gray_97">#FF979797</color>
+    <color name="yt_color_gray_hint">#FFC7C7C7</color>
+    <color name="yt_color_edit_gray">#FAFAFA</color>
+    <color name="yt_color_edit_hint_gray">#ADADAD</color>
+    <color name="yt_color_gray_light">#FFAEAEAE</color>
+    <color name="yt_color_gray_bg2">#FFE0E0E0</color>
+    <color name="yt_color_gray_bg_30">#4DE0E0E0</color>
+    <color name="yt_color_gray_bg">#FFF5F6F7</color>
+    <color name="yt_color_gray_express">#FFC9C9C9</color>
+    <color name="yt_color_pink_bg">#FDEAEA</color>
+    <color name="yt_color_gray_9F9DA1">#9F9DA1</color>
+    <color name="yt_color_gray_9D9E9D">#9D9E9D</color>
+
+
+
+    <color name="yt_color_red">#FFEE1515</color>
+    <color name="yt_color_red_F66632">#F66632</color>
+    <color name="yt_color_red_FE3B31">#FE3B31</color>
+    <color name="yt_color_red_FA542A">#FA542A</color>
+    <color name="yt_color_red_FF4343">#FF4343</color>
+    <color name="yt_color_red_FF9D11">#FF9D11</color>
+    <color name="yt_color_red_FF2742">#FF2742</color>
+    <color name="yt_color_red_FF5500">#FF5500</color>
+    <color name="yt_color_red_FFF2EE">#FFF2EE</color>
+    <color name="yt_color_red_FF4141">#FF4141</color>
+    <color name="yt_color_red_FF1B00">#FF1B00</color>
+    <color name="yt_color_red_F90D0C">#F90D0C</color>
+
+    <color name="yt_color_blue_4663FF">#4663FF</color>
+    <color name="yt_color_blue_546AFF">#546AFF</color>
+    <color name="yt_color_blue_5484FF">#5484FF</color>
+    <color name="yt_color_blue_3985FF">#3985FF</color>
+    <color name="blue_567FFF">#567FFF</color>
+
+    <color name="yt_color_translucent">#7F000000</color>
+
+    <color name="yt_color_text_red">#FFEE4550</color>
+    <color name="yt_color_text_yellow">#FAB811</color>
+    <color name="yt_color_text_dark">#3E3D3E</color>
+    <color name="yt_color_text_medium">#5F5E5F</color>
+    <color name="yt_color_text_lighter">#C4C4C4</color>
+    <color name="yt_color_text_C16917">#C16917</color>
+    <color name="_F7DA5A">#F7DA5A</color>
+
+    <color name="shopping_single_spec_text_false">#2B2B2B</color>
+    <color name="_F66A37">#F66A37</color>
+    <color name="_1AFBCD04">#1AFBCD04</color>
+    <color name="transparent">#00000000</color>
+    <color name="_F5F5F5">#F5F5F5</color>
+    <color name="translucent">#50000000</color>
+    <color name="_5F5F5F">#5F5F5F</color>
+    <color name="_CD6C00">#CD6C00</color>
+    <color name="_FFD78C">#FFD78C</color>
+    <color name="_3D3E3F">#3D3E3F</color>
+
+    <color name="_FF2D2D">#FF2D2D</color>
+
+    <color name="red_FF2D2D">#FF2D2D</color>
+    <color name="_2A2926">#2A2926</color>
+    <color name="_999999">#999999</color>
+    <color name="picture_color_f2">#f2f2f2</color>
+    <color name="_FFCB00">#FFCB00</color>
+    <color name="_27A5FF">#27A5FF</color>
+
+    <color name="ensure_color1">#FFB41C</color>
+    <color name="ensure_color2">#FFC92C</color>
+    <color name="ensure_color3">#FAE072</color>
+    <color name="ensure_color4">#F8EC97</color>
+    <color name="ensure_color5">#8DE495</color>
+    <color name="ensure_color6">#8AE294</color>
+
+    <integer-array name="gradient_arc_color">
+        <item>@color/ensure_color1</item>
+        <item>@color/ensure_color2</item>
+        <item>@color/ensure_color3</item>
+        <item>@color/ensure_color4</item>
+        <item>@color/ensure_color5</item>
+        <item>@color/ensure_color6</item>
+        <item>@color/ensure_color6</item>
+    </integer-array>
+
+
+    <color name="yt_color_black_50">#80252525</color>
+    <color name="color_DCB57A">#DCB57A</color>
+</resources>

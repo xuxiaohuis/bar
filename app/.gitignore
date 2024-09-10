@@ -1,0 +1,34 @@
+/build
+# Built application files
+*.apk
+*.ap_
+
+# Files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio specific
+.idea/
+*.iml
+
+# Proguard files
+proguard/
+
+# Keystore files
+*.jks
+
+# Temporary files
+*.tmp
