@@ -9,6 +9,8 @@ appcompat = "1.6.1"
 material = "1.10.0"
 activity = "1.8.0"
 constraintlayout = "2.1.4"
+maven = "2.1"
+android-maven-gradle-plugin = "2.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -24,4 +26,8 @@ androidx-constraintlayout = { group = "androidx.constraintlayout", name = "const
 android-application = { id = "com.android.application", version.ref = "agp" }
 jetbrains-kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 android-library = { id = "com.android.library", version.ref = "agp" }
+#android-maven-gradle-plugin = { id = "com.github.dcendents", name = "android-maven-gradle-plugin",version.ref = "maven"}
+#android-maven-gradle-plugin = { module = "com.github.dcendents:android-maven-gradle-plugin", version.ref = "android-maven-gradle-plugin" }
+
+#classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
 
